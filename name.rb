@@ -5,7 +5,8 @@ last_name = gets.chomp
 
 
 
-puts "Your full name is: #{first_name} #{last_name}!"
+
+puts "Your full name is: #{first_name} #{last_name}."
 
 #puts "Welcome, #{name}!" #string interpolation method
 
